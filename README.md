@@ -1,8 +1,6 @@
 # Anomaly-Detection
 Cucu Viorel-Cosmin 314CA
 
-   # Descriere Funcții pentru Gaussian Distribution
-
 ## estimate_gaussian(X)
 Calculez vectorul de medie `mean_values` exact ca o medie aritmetică. Iau toți vectorii `x` care au dimensiunea `n` (cu `m` vectori în total). Pentru fiecare poziție din vectorul de medie, calculez media aritmetică a tuturor elementelor din vectorii `x` pe aceeași poziție.
 
